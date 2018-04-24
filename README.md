@@ -1,4 +1,4 @@
-# Rationale [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
+# Rationale
 
 This README describe the workflow in the path to generate tridimensionalization information of a patagonian cemetery. Involves photogrammetry, sound & [video restoration](https://vimeo.com/album/4412719) from [Anne Chapman-Ana Montes documentary](https://www.youtube.com/watch?v=NEVAdGL6DFs), _circa_ 1977.
 ![documentary.png](https://bitbucket.org/repo/aBjx4q/images/4133939277-documentary.png)
@@ -34,14 +34,17 @@ This README describe the workflow in the path to generate tridimensionalization 
          * Check [bibliography.md](https://bitbucket.org/imhicihu/chapman-documentary/src/0ce55e69f3e6f1d689a1f2ab453ea76d4d220dd0/bibliography.md?at=master&fileviewer=file-view-default)
 
 * Configuration
-    - Involves mostly digital assets, in a nutshell, documentary visual data meets 3D tools.
-    
+    - Involves mostly digital assets, in a nutshell, documentary visual data meets 3D tools.    
     ![sketchfab.png](https://bitbucket.org/repo/5L4R8g/images/1659513802-sketchfab.png)
-
 
 * Dependencies
     - The nature of the work forced a lot of dependencies (mostly of the software side) and constrains. Some of the essential data was missing form the beginning.
     - Most of the issues -along the process- matured and brought new approaches and encouraged creativity in the tools used.
+
+### Issues ###
+
+* ~~Check them on [here](https://bitbucket.org/imhicihu/chapman-documentary/issues)~~
+* [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
 ### Who do I talk to? ###
 * Repo owner or admin
