@@ -50,4 +50,4 @@ This README describe the workflow in the path to generate tridimensionalization 
 * Repo owner or admin
     - Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact our [board](https://bitbucket.org/imhicihu/chapman-documentary/addon/trello/trello-board)
+    - Contact our [board](https://bitbucket.org/imhicihu/chapman-documentary/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
