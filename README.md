@@ -47,7 +47,12 @@ This README describe the workflow in the path to generate tridimensionalization 
 * [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
 ### Who do I talk to? ###
+
 * Repo owner or admin
     - Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact our [board](https://bitbucket.org/imhicihu/chapman-documentary/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
+    
+### Legal ###
+
+* All trademarks are the property of their respective owners.
