@@ -1,3 +1,5 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 # Rationale
 
 This README describe the workflow in the path to generate tridimensionalization information of a patagonian cemetery. Involves photogrammetry, sound & [video restoration](https://vimeo.com/album/4412719) from [Anne Chapman-Ana Montes documentary](https://www.youtube.com/watch?v=NEVAdGL6DFs), _circa_ 1977.
