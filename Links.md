@@ -1,4 +1,8 @@
 ## Links to visit:
+
+### Photogrammetry:
+* [MODERN PHOTOGRAMMETRY IN THE FIELD OF ARCHAEOLOGY AND CULTURAL HERITAGE/ LA FOTOGRAMETRÍA MODERNA PARA LA DOCUMENTACIÓN ARQUEOLÓGICA Y DEL PATRIMONIO CULTURAL](https://www.eventbrite.it/e/biglietti-modern-photogrammetry-in-the-field-of-archaeology-and-cultural-heritage-la-fotogrametria-moderna-49981549159)
+
 ### Terrain stuff
 * http://www.karto.ethz.ch/services/software.html (essentially links to terrain treatment)
 * [Terrain data](https://github.com/openterrain/openterrain/wiki/Terrain-Data): Github repo with a lot of useful links from [OpenTerrain](https://github.com/openterrain).
@@ -10,7 +14,7 @@
 * https://github.com/JacquesLucke/Blender-Camera-Addon
 * https://www.latlong.net/
 * http://www.isprs.org/proceedings/
-* https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasï¿½rselo a Emilio
+* https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasárselo a Emilio
 
 ### Ipad
 * [iDig - Recording Archaeology](https://itunes.apple.com/us/app/idig-recording-archaeology/id953353960?mt=8)
