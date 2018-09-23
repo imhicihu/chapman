@@ -21,3 +21,6 @@
 
 ### Optics
 * https://imadio.com/products/prodpage_hemi.aspx
+
+### Miscellaneous
+* [Street View Download 360](https://svd360.istreetview.com/): downloading 360° panoramas from Google Street View.
