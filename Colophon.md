@@ -11,6 +11,7 @@
      - [Blender](https://www.blender.org/): 3D modelling 
      - [QuickyPano](https://github.com/sybrenstuvel/quickypano): 360/180 degree panoramas open-source creator
      - [Armory Renderer](https://armory3d.org/)
+     - [Meshlab](https://github.com/cnr-isti-vclab/meshlab/releases/): mesh edition, correction, conversion & interchange file formats
 
 ## Legal ##
 
