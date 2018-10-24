@@ -18,6 +18,7 @@
 * Federica Bressan, Antonio Rodà, Sergio Canazza, Federico Fontana and Roberta Bertani: *The Safeguard of Audio Collections: A Computer Science Based Approach to Quality Control—The Case of the Sound Archive of the Arena di Verona.* Advances in Multimedia Volume 2013 (2013), Article ID 276354, 14 pages. Accessed on 21/6/2017 on [https://www.hindawi.com/journals/am/2013/276354/](https://www.hindawi.com/journals/am/2013/276354/)
 * Carla Schroder: *The Book of Audacity: Record, Edit, Mix, and Master with the Free Audio Editor.* No Starch Press, 384 pp. ISBN13: 9781593272708
 * Godsill S., Rayner P., Cappé O. (2002) *Digital Audio Restoration*. In: Kahrs M., Brandenburg K. (eds) Applications of Digital Signal Processing to Audio and Acoustics. The International Series in Engineering and Computer Science, vol 437. Springer, Boston, MA
+* Scott Dorsey: *Audio Archiving, Preservation, and Restoration at the Library of Congress*, audioXpress, november 2018, p. 18-23.
 
 ### 3D
 * Mullen, Tony: "*Mastering Blender*", Wiley Publishing, 475pp. ISBN: 9780470407417. (read ---> *done*!)
