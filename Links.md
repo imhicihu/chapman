@@ -22,5 +22,8 @@
 ### Optics
 * https://imadio.com/products/prodpage_hemi.aspx
 
+### 3D
+* https://github.com/stream-labs/facemask-plugin  (Check the Useful links section)
+
 ### Miscellaneous
 * [Street View Download 360](https://svd360.istreetview.com/): downloading 360° panoramas from Google Street View.
