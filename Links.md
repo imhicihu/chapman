@@ -19,8 +19,11 @@
 ### Ipad
 * [iDig - Recording Archaeology](https://itunes.apple.com/us/app/idig-recording-archaeology/id953353960?mt=8)
 
-### Optics
-* https://imadio.com/products/prodpage_hemi.aspx
+### Optics (software correction): payware
+* [Fisheye-Hemi Plug-In](https://imadio.com/products/prodpage_hemi.aspx)
+
+### Field of view (calculus)
+* [How to figure out a drone's angular field of view](https://www.wired.com/story/how-to-figure-out-drone-angular-field-of-view/)
 
 ### 3D
 * https://github.com/stream-labs/facemask-plugin  (Check the Useful links section)
