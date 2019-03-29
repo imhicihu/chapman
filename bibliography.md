@@ -19,6 +19,7 @@
 * Carla Schroder: *The Book of Audacity: Record, Edit, Mix, and Master with the Free Audio Editor.* No Starch Press, 384 pp. ISBN13: 9781593272708
 * Godsill S., Rayner P., Cappé O. (2002) *Digital Audio Restoration*. In: Kahrs M., Brandenburg K. (eds) Applications of Digital Signal Processing to Audio and Acoustics. The International Series in Engineering and Computer Science, vol 437. Springer, Boston, MA
 * Scott Dorsey: *Audio Archiving, Preservation, and Restoration at the Library of Congress*, audioXpress, november 2018, p. 18-23.
+* Criminisi, A.; Reid, I. and A. Zisserman: *Single view metrology*. [Online version](https://github.com/jguoaj/single-view-modeling/blob/master/Criminisi99.pdf)
 
 ### 3D
 * Mullen, Tony: "*Mastering Blender*", Wiley Publishing, 475pp. ISBN: 9780470407417. (read ---> *done*!)
