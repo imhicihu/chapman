@@ -13,6 +13,7 @@
      - [Armory Renderer](https://armory3d.org/)
      - [Meshlab](https://github.com/cnr-isti-vclab/meshlab/releases/): mesh edition, correction, conversion & interchange file formats
      - [Tracker](https://physlets.org/tracker/): video analysis and modeling tool
+     - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
 
 ## Legal ##
 
