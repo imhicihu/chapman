@@ -28,5 +28,8 @@
 ### 3D
 * https://github.com/stream-labs/facemask-plugin  (Check the Useful links section)
 
+## AI applied to graphics assets
+* [Artificial intelligence is helping old video games look new](https://www.theverge.com/2019/4/18/18311287/ai-upscaling-algorithms-video-games-mods-modding-esrgan-gigapixel)
+
 ### Miscellaneous
 * [Street View Download 360](https://svd360.istreetview.com/): downloading 360° panoramas from Google Street View.
