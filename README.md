@@ -9,7 +9,8 @@ This README describe the workflow in the path to generate tridimensionalization 
 ### What is this repository for? ###
 
 * Quick summary
-    - Photogrammetry and video restoration applied to a documentary.
+    - Photogrammetry and video restoration applied to a documentary
+    - ![photogrammetry.jpg](https://bitbucket.org/repo/aBjx4q/images/2918506912-IMG_1648.PNG)
 * Version 1.01
 
 ### How do I get set up? ###
