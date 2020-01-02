@@ -17,6 +17,9 @@
      - Bibliographic searcher:
         - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
 
+* Photogrammetry
+    - [OpenSfM](https://www.opensfm.org/): reconstructing camera poses and 3D scenes from multiple images
+
 ## Legal ##
 
 * All trademarks are the property of their respective owners.
